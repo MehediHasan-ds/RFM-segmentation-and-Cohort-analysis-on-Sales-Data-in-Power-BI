@@ -1,6 +1,6 @@
 # **Sales Analysis Project Report**  
 
-![Live Link](https://app.powerbi.com/view?r=eyJrIjoiMjk4MWJiYzYtYTBjNS00YjExLTgwYmEtNDUxOGMxMThjNjMwIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)  
+Check the Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiMjk4MWJiYzYtYTBjNS00YjExLTgwYmEtNDUxOGMxMThjNjMwIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)  
 
 ---
 
