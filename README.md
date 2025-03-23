@@ -1,5 +1,7 @@
 # **Sales Analysis Project Report**  
 
+![Live Link](https://app.powerbi.com/view?r=eyJrIjoiMjk4MWJiYzYtYTBjNS00YjExLTgwYmEtNDUxOGMxMThjNjMwIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)  
+
 ---
 
 1. [Executive Summary](#executive-summary)  
@@ -107,6 +109,7 @@ The following advanced DAX measures were created:
 ## **Dashboards and Live Links**  
 <img src="./images/overview.png" alt="summary" width="800" height="450" />
 <img src="./images/cohort.png" alt="cohort" width="800" height="450" />
+<img src = "./images/RFM.png>" alt="RFM" width="800" height="450" />
 
 
 ## **Insights Gained**  
