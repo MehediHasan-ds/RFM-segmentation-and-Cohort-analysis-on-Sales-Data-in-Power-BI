@@ -107,15 +107,15 @@ The following advanced DAX measures were created:
 
 ---
 ## **Dashboards and Live Links**  
-<img src="./images/overview.png" alt="summary" width="800" height="450" />
-<img src="./images/cohort.png" alt="cohort" width="800" height="450" />
-<img src = "./images/RFM.png>" alt="RFM" width="800" height="450" />
+<img src="./images/overview.png" alt="summary" width="800" height="450" />  
+<img src="./images/customer_insights.png" alt="cohort" width="800" height="450" />  
+<img src = "./images/RFM.png" alt="RFM" width="800" height="450" />  
 
 
 ## **Insights Gained**  
 1. **Revenue Distribution:**  
    - Customers aged 36-45 and 26-35 contribute the most revenue.  
-   - Male customers and high-income groups dominate sales.  
+   - Female customers and high-income groups dominate sales.  
 
 2. **Geographical Performance:**  
    - North America, Europe, and Australia are the highest revenue-generating regions.  
@@ -132,7 +132,7 @@ The following advanced DAX measures were created:
 1. **High-Value Customers:** Identified through **RFM segmentation**, these customers contribute significantly to revenue and require targeted retention strategies.  
 2. **Cohort Analysis:** Revealed trends in customer retention and churn, highlighting opportunities for re-engagement campaigns.  
 3. **Geographical Insights:** North America, Europe, and Australia are key regions for revenue generation.  
-4. **Demographic Insights:** Male customers and high-income groups are the primary revenue drivers.  
+4. **Demographic Insights:** Female customers and high-income groups are the primary revenue drivers.  
 
 ---
 
@@ -143,9 +143,4 @@ The following advanced DAX measures were created:
 4. **Optimize Pricing Strategies:** Test price adjustments for high-demand products to maximize profitability.  
 5. **Enhance Customer Experience:** Address factors contributing to churn, such as product quality and delivery times.  
 
----
-
-## **Future Work**  
-**Customer Lifetime Value (CLV):** Develop a CLV model to identify high-value customers.  
-  
 --- 
